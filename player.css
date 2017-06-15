@@ -40,9 +40,9 @@ img, #pbar-container, #sbar-container {
 	background-color: rgb(70, 70, 70);
 }
 	#pbar {
-		height: 5px;
+		height: 75px;
 		width: 0%;
-		background-color: rgb(50, 170, 220);
+		background-color: rgb(250, 170, 220);
 	}
 
 #buttons-container {
@@ -64,14 +64,14 @@ img, #pbar-container, #sbar-container {
 	}
 	#sbar-container {
 		margin-left: 0;
-		width: 100px;
+		width: 30px;
 		height: 5px;
 		background-color: rgb(70, 70, 70);
 	}
 		#sbar {
 			height: 100%;
 			width: 50%;
-			background-color: rgb(250, 170, 220);
+			background-color: rgb(50, 170, 220);
 		}
 	#fullscreen-button {
 		float: right;
