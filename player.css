@@ -42,7 +42,9 @@ img, #pbar-container, #sbar-container {
 	#pbar {
 		height: 75px;
 		width: 0%;
-		background-color: rgb(250, 170, 220);
+		
+		background-color: rgb(255, 65, 5);
+		//background-color: rgb(250, 170, 220);
 	}
 
 #buttons-container {
@@ -71,7 +73,7 @@ img, #pbar-container, #sbar-container {
 		#sbar {
 			height: 100%;
 			width: 50%;
-			background-color: rgb(250, 170, 220);
+			background-color: rgb(255, 65, 5);
 		}
 	#fullscreen-button {
 		float: right;
